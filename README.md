@@ -1,6 +1,6 @@
 # Eldar Muradau
 
-![](https://komarev.com/ghpvc/?username=EldarMuradov)
+![](https://komarev.com/ghpvc/?username=EldarMuradau)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -17,11 +17,11 @@ I've been working on:
 
 
 # Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradov&repo=EraEngine)](https://github.com/EldarMuradov/EraEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradau&repo=EraEngine)](https://github.com/EldarMuradau/EraEngine)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradov&repo=OpenPS)](https://github.com/EldarMuradov/OpenPS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradau&repo=OpenPS)](https://github.com/EldarMuradau/OpenPS)
 
 # Stats
 
-![EldarMuradov GitHub stats](https://github-readme-stats.vercel.app/api/?username=EldarMuradov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarMuradov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![EldarMuradov GitHub stats](https://github-readme-stats.vercel.app/api/?username=EldarMuradau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarMuradau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
