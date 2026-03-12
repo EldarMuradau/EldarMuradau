@@ -16,8 +16,6 @@ I've been working on:
 
 # Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradau&repo=EraEngine)](https://github.com/EldarMuradau/EraEngine)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradau&repo=OpenPS)](https://github.com/EldarMuradau/OpenPS)
 
 # Stats
 
